@@ -1,0 +1,4 @@
+Ceci est un fichier de test.
+Chaque ligne contient du texte simple.
+Ce fichier sert à valider le traitement des .txt.
+Bonne analyse et bon courage !
